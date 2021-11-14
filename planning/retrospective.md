@@ -4,9 +4,7 @@
 
 ## Stop Doing
 
-- Create smaller issues.
-
-​
+- Waiting till I completely understand the module objective. I started with what was clear.
 
 ## Continue Doing
 
