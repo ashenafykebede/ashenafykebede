@@ -23,15 +23,15 @@
 ## Lessons Learned
 
 - Keep doing your task little by little everyday.
-- dont say I will do it tomorrow, it will be cumbersome 
-- Dont wait a zoom meeting if your availability doesnt match with that of youe partner
-  use all othe rmeans of communication. go for slack, discord, you name it
+- dont say I will do it tomorrow, it will become cumbersome 
+- Dont wait a zoom meeting if your availability doesnt match with that of your partner
+  use all other means of communication. Go for slack, discord, you name it.
 
 ## Strategy vs. Board
 
 ### What parts of your plan went as expected?
 
-- The communication , collaboration, the interview, and the PR requests to each other. 
+- The communication , collaboration, interview, and the PR requests to each other. 
 - I met a motivated and commited partner
 
 ### What parts of your plan did not work out?
