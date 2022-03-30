@@ -1,52 +1,57 @@
-# My Portfolio 
+<img src = "https://github.com/ashenafykebede/ashenafykebede/blob/main/AshenafiKebede_github_ReadMe.png" width = "75%" alt = "Profile Picture">
 
-This is a project to build a personal protfolio for Ashenafi Kebede.
+## About me 👋
 
-## Getting Started
+My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage and software development.  I have MSc degree in Microelectronics Engineering and Bachelor degree in Electrical Engineering. My personal hobbies are walking , chatting , swimming , listening music etc.
 
-<!-- a guide to using this repository -->
+## Current Activities 🌱
+ I’m currently attending a training about frontend web development by <a href = "https://hackyourfuture.be/" target="_blank"> #HackYourFutureBelgium .</a>
+ 
+ 
+## Websites I developed
+ - https://www.eedaga.com  Affilate marketing website
+ - https://www.shitene.com A website developed for a friend's company
+ - https://www.hotelbooking.shitene.com Multihotel booking management system
+ - https://www.sports.shitene.com A website for Mekelle Sport Club with membership management
+ - https://www.waterbill.shitene.com Water bill management system
+ - https://www.fundme.shitene.com Local Fundriser system integrated with Wegagen Bank and Lion International Banks of Ethiopia
+ 
+## Skills
+<table>
+  <tr>
+    <th>Category</th>
+    <th>List</th>
+  </tr>
+  <tr>
+    <td>Software Programming Languages</td>
+    <td>C,C++, PHP,Javascript, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Hardware Description Languages</td>
+    <td> VHDL, Verilog</td>
+  </tr>
+  <tr>
+    <td>Frameworks</td>
+    <td> Laravel, Codeigniter , Bootstrap, Jquery</td>
+  </tr>
+   <tr>
+    <td>Databases</td>
+    <td> Mysql</td>
+  </tr>
+  <tr>
+    <td>IDEs/Tools</td>
+    <td> Visual Studio Code, Notepad++ , Sublimetext, Github </td>
+  </tr>
+</table>
+ 
+### Repo Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafykebede&count_private=true&show_icons=true?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+### Let's keep in touch
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:ashuewa@gmail.com) &nbsp;                                                       [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/)  &nbsp;                                                     [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/ashenafi-kebede-56a66720/) &nbsp;                       [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/proudtigrawai)&nbsp;                                             [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />](https://www.facebook.com/)&nbsp;                                                         [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/) 
 
-## Code Quality Checks
-
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+<a href="https://www.freepik.com/vectors/background">Background vector created by kjpargeter - www.freepik.com</a>
+<!---
+ashenafykebede/ashenafykebede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
