@@ -7,14 +7,20 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
 ## Current Activities 🌱
  I’m currently attending a training about frontend web development by <a href = "https://hackyourfuture.be/" target="_blank"> #HackYourFutureBelgium .</a>
  
- 
+## Javascript | React | and Strapi based projects
+ - [Movie list](https://ashenafykebede.github.io/movies/)
+ - [Countdown Timer](https://ashenafykebede.github.io/count-down-timer/)
+ - [Word list](https://ashenafykebede.github.io/wordList/)
+ - [Password strength Checker](https://passwordrulechecker.glitch.me/)
+
+
 ## Websites I developed
  - https://www.eedaga.com  Affilate marketing website
- - https://www.shitene.com A website developed for a friend's company
- - https://www.hotelbooking.shitene.com Multihotel booking management system
- - https://www.sports.shitene.com A website for Mekelle Sport Club with membership management
- - https://www.waterbill.shitene.com Water bill management system
- - https://www.fundme.shitene.com Local Fundriser system integrated with Wegagen Bank and Lion International Banks of Ethiopia
+ - https://www.shitene.com A website developed for a friend's company(now Offline due to domain expiration)
+ - https://www.hotel.eedaga.com Multihotel booking management system
+ - https://www.sport.eedaga.com A website for Mekelle Sport Club with membership management
+ - https://www.waterbill.eedaga.com Water bill management system
+ - https://www.fundme.eedaga.com Local Fundriser system integrated with Wegagen Bank and Lion International Banks of Ethiopia
  
 ## Skills
 <table>
@@ -24,7 +30,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
   </tr>
   <tr>
     <td>Software Programming Languages</td>
-    <td>C,C++, PHP,Javascript, HTML, CSS</td>
+    <td>C,C++, PHP,Javascript, HTML, CSS,React Strapi</td>
   </tr>
   <tr>
     <td>Hardware Description Languages</td>
@@ -32,7 +38,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
   </tr>
   <tr>
     <td>Frameworks</td>
-    <td> Laravel, Codeigniter , Bootstrap, Jquery</td>
+    <td> Laravel , Bootstrap</td>
   </tr>
    <tr>
     <td>Databases</td>
