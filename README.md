@@ -14,7 +14,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
  - [Password strength Checker](https://passwordrulechecker.glitch.me/)
 
 
-## Websites I developed
+## PHP-Laravel based projects
  - https://www.eedaga.com  Affilate marketing website
  - https://www.shitene.com A website developed for a friend's company(now Offline due to domain expiration)
  - https://www.hotel.eedaga.com Multihotel booking management system
