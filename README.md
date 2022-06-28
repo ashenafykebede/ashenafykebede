@@ -7,7 +7,8 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
 ## Current Activities 🌱
  I’m currently attending a training about frontend web development by <a href = "https://hackyourfuture.be/" target="_blank"> #HackYourFutureBelgium .</a>
  
-## Javascript | React | and Strapi based projects
+## Javascript | React | Strapi based projects
+ - [Final project](https://github.com/STEMers/stemers-frontend-netlify)
  - [Movie list](https://ashenafykebede.github.io/movies/)
  - [Countdown Timer](https://ashenafykebede.github.io/count-down-timer/)
  - [Word list](https://ashenafykebede.github.io/wordList/)
