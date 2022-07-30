@@ -24,6 +24,9 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
  - https://www.waterbill.eedaga.com Water bill management system
  - https://www.fundme.eedaga.com Local Fundriser system integrated with Wegagen Bank and Lion International Banks of Ethiopia
  
+ ## Core Java based projects
+ - [miniBank](https://github.com/ashenafykebede/miniBank) java based multicustomer miniBank system with operation menu,create account, deposit, withdraw, transaction details features
+ 
 ## Skills
 <table>
   <tr>
