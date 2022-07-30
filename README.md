@@ -5,7 +5,8 @@
 My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage and software development.  I have MSc degree in Microelectronics Engineering and Bachelor degree in Electrical Engineering. My personal hobbies are walking , chatting , swimming , listening music etc.
 
 ## Current Activities 🌱
- I’m currently attending a training about frontend web development by <a href = "https://hackyourfuture.be/" target="_blank"> #HackYourFutureBelgium .</a>
+
+ Im currently developing different Java, php, javascript and react based projects to sharpen my skills (See blow for completed projects)
  
 ## Javascript | React | Strapi based projects
  - [Final project](https://github.com/STEMers/stemers-frontend-netlify)
