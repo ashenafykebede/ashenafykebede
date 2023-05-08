@@ -1,4 +1,3 @@
-<img src = "https://github.com/ashenafykebede/ashenafykebede_screening/blob/main/AshenafiKebede_github_ReadMe.png" width = "75%" alt = "Profile Picture">
 
 ## About me 👋
 
